@@ -1,9 +1,6 @@
 # **Analysis of New York Airbnb Data**
 Exploratory Data Analysis of New York Airbnb Data, visualized using ArcGIS API for Python
 
-
-**Team Name:** Coraline and A Nun Walk Into A Bar
-
 **Team Members:** Farnaz Mozhgani (fmozh001(862273989)), Ashley Pang (apang024), Yeahn Kim
 (ykim384)
 
